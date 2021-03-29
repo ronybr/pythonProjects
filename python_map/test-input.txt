@@ -1,0 +1,3 @@
+id,name,age,score
+1,Jack,NULL,12
+17,Betty,28,11
