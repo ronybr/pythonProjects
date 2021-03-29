@@ -1,0 +1,71 @@
+--------------------
+Date: 6:2:2021
+Time: 3:39
+Phone number: +351932306750
+Message: Test python app sending messages
+--------------------
+Date: 6:2:2021
+Time: 3:42
+Phone number: +351932306750
+Message: Test python app sending messages
+--------------------
+Date: 6:2:2021
+Time: 15:43
+Phone number: +351932306750
+Message: Test python app sending messages
+--------------------
+Date: 6:2:2021
+Time: 15:47
+Phone number: +320493542692
+Message: Test python app sending messages
+--------------------
+Date: 6:2:2021
+Time: 15:49
+Phone number: +320493542692
+Message: Test python app sending messages
+--------------------
+Date: 6:2:2021
+Time: 15:50
+Phone number: +320493542692
+Message: Test python app sending messages
+--------------------
+Date: 9:2:2021
+Time: 15:50
+Phone number: +320493542692
+Message: Test python app sending messages
+--------------------
+Date: 11:2:2021
+Time: 15:50
+Phone number: +32497343436
+Message: Test python app sending messages
+--------------------
+Date: 11:2:2021
+Time: 15:4
+Phone number: +32497343436
+Message: Test python app sending messages
+--------------------
+Date: 11:2:2021
+Time: 3:4
+Phone number: +32497343436
+Message: Test python app sending messages
+--------------------
+Date: 11:2:2021
+Time: 3:5
+Phone number: +32497343436
+Message: Test python app sending messages
+--------------------
+Date: 11:2:2021
+Time: 15:10
+Phone number: +32497343436
+Message: Test python app sending messages
+--------------------
+Date: 11:2:2021
+Time: 15:7
+Phone number: +32497343436
+Message: Test python app sending messages
+--------------------
+Date: 11:2:2021
+Time: 15:7
+Phone number: +32497343436
+Message: Test python app sending messages
+--------------------
