@@ -101,11 +101,11 @@ class Hangman:
     def print_game_status(self):
         print(board[len(self.missed_letters)])
         print('\nPalavra: ' + self.hide_word())
-        print('\nLetras erradas: ', )
+        print('\nWrong letters: ', )
         for letter in self.missed_letters:
             print(letter, )
         print()
-        print('Letras corretas: ', )
+        print('Correct letters: ', )
         for letter in self.guessed_letters:
             print(letter, )
         print()
@@ -126,7 +126,7 @@ def main():
     # Enquanto o jogo não tiver terminado, print do status, solicita uma letra e faz a leitura do caracter
     while not game.hangman_over():
         game.print_game_status()
-        user_input = input('\nDigite uma letra: ')
+        user_input = input('\nType a letter: ')
         game.guess(user_input)
 
     # Verifica o status do jogo
@@ -134,12 +134,12 @@ def main():
 
     # De acordo com o status, imprime mensagem na tela para o usuário
     if game.hangman_won():
-        print('\nParabéns! Você venceu!!')
+        print('\nCongrats! You win!!')
     else:
-        print('\nGame over! Você perdeu.')
-        print('A palavra era ' + game.word)
+        print('\nGame over! You lossse.')
+        print('The word was ' + game.word)
 
-    print('\nFoi bom jogar com você! Agora vá estudar!\n')
+    print('\nNice game!!\n')
 
 
 # Executa o programa

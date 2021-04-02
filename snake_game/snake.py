@@ -5,7 +5,7 @@ import random
 # initialize the game
 pygame.init()
 
-# Define collors to use on Snake , screen and food
+# Define collor to use on Snake , screen and food
 black = (0, 0, 0)
 red = (255, 0, 0)
 white = (255, 255, 255)
@@ -76,7 +76,7 @@ def game_loop():
     while not game_over:
         while game_close:
             dis.fill(blue)
-            message("You lost Press Q-Quit or C-Play Again", red)
+            message("You lose! Press Q-Quit or C-Play Again", red)
             your_score(length_snake - 1)
             pygame.display.update()
 
