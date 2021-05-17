@@ -38,4 +38,4 @@ while(1):
     except sr.RequestError as e:
         print("Could not request results; {0}".format(e))
     except sr.UnknownValueError:
-        print("Unknown  error occured")
+        print("Unknown error occured")
